@@ -1,0 +1,9 @@
+#crew-list
+  #title-region
+  section
+    .row
+      #panel-region.large-12.columns
+      #new-region.large-12.columns
+
+  section
+    #crew-region.large-12.columns

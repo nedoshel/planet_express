@@ -1,0 +1,4 @@
+.panel.radius
+  h2
+    small No Crew Members Found!
+  p.subheader Add a crew member to get started.

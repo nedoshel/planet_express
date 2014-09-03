@@ -1,0 +1,23 @@
+header
+  .contain-to-grid
+    nav.top-bar
+      ul.title-area
+        li.name
+          h1
+            a href="#"
+              span#logo
+                img src="assets/ship.png" /
+              | Planet Express
+      section.top-bar-section
+        ul.right
+          li.divider
+          li
+            a href="#"
+              i.general.fi-graph
+              | Dashboard
+          li.divider
+          li.active
+            a href="#"
+              i.social.fi-torso
+              | Crew
+          li.divider

@@ -1,0 +1,13 @@
+form data-type="new"
+  .panel.radius
+    #new-crew
+      .row
+        .large-12.columns
+          label What's their name?
+          input.large-6.columns placeholder=("Crew Member Name") type="text" /
+    footer
+      ul.inline-list
+        li
+          button.button.small.radius data-form-button="primary"  Save
+        li
+          button.button.small.secondary.radius data-form-button="cancel"  Cancel

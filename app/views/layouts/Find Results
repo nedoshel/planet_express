@@ -1,0 +1,17 @@
+Searching 16 files for "HeaderRegion"
+
+/home/nedoshel/rails/planet/app/assets/javascripts/backbone/app.js.coffee:
+    3
+    4    App.addRegions
+    5:     headerRegion: '#header-region'
+    6      mainRegion:   '#main-region'
+    7      footerRegion: '#footer-region'
+
+/home/nedoshel/rails/planet/app/assets/javascripts/backbone/apps/header/list/list_controller.js.coffee:
+    5      list: ->
+    6        listView = @getListView()
+    7:       App.headerRegion.show listView
+    8
+    9      getListView: ->
+
+2 matches across 2 files

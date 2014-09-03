@@ -1,0 +1,32 @@
+.large-3.columns.text-center
+  a.th.radius href="#"
+    img src='assets/fry.jpg'
+.large-9.columns.stats-container
+  .row
+    .large-6.columns
+      .row
+        .large-5.columns.attribute-label Age
+        .large-7.columns 24
+      .row
+        .large-5.columns.attribute-label Name
+        .large-7.columns Philip Fry
+      .row
+        .large-5.columns.attribute-label Title
+        .large-7.columns Delivery Boy
+      .row
+        .large-5.columns.attribute-label Species
+        .large-7.columns Human
+      .row
+        .large-5.columns.attribute-label Origin
+        .large-7.columns Earth
+    .large-6.columns
+      blockquote
+        ul.large-block-grid-2.text-center.stats
+          li
+            div
+              span.label.round 5
+            .stat-type Completed
+          li
+            div
+              span.label.round.success $5,000
+            .stat-type Earnings

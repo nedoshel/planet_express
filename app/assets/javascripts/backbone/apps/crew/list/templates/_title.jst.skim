@@ -1,0 +1,19 @@
+#page-title
+  .row
+    .large-12.columns
+      h1 Crew
+      h4 The Crew Members of Planet Express
+      #page-icons
+        i.accessibility.fi-torso
+        i.accessibility.fi-torso
+        i.accessibility.fi-torso
+
+.row
+  .columns.large-12
+    ul.right.breadcrumbs
+      li
+        a href="#"  Home
+      li.unavailable
+        a href="#"  Crew
+      li.current
+        a href="#"  Fry

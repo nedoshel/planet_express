@@ -1,0 +1,3 @@
+@crew.each do |crew|
+  json << crew.attributes
+end
